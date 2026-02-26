@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhruvik Kevadiya
 
-<!--
-**DKevadiya/DKevadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Mobile App Developer | Flutter & iOS Specialist  
+📱 Founder at Mobile App Development Company  
+🌍 Building scalable AI-powered & SaaS applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+- 📲 iOS & Android App Development
+- ⚡ Flutter Cross-Platform Apps
+- 🔥 Firebase & Scalable Backend Systems
+- 🤖 AI-integrated Applications
+- 💳 Fintech & Subscription Apps
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Swift
+- Firebase
+- Node.js
+- REST APIs
+- Cloud Functions
+
+---
+
+## 📈 Currently Focused On
+
+- AI-powered mobile apps
+- SaaS MVP development
+- Performance optimization
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Upwork Profile : https://www.upwork.com/freelancers/dhruvikkevadiya3
+- 💼 LinkedIn : https://www.linkedin.com/in/dhruvik-kevadiya/
+- 📧 dhruvikkevadiya07@email.com
