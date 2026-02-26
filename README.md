@@ -39,4 +39,4 @@
 
 - 🌐 Upwork Profile : https://www.upwork.com/freelancers/dhruvikkevadiya3
 - 💼 LinkedIn : https://www.linkedin.com/in/dhruvik-kevadiya/
-- 📧 dhruvikkevadiya07@email.com
+- 📧 Email : dhruvikkevadiya07@email.com
